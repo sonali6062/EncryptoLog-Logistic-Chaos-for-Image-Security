@@ -1,0 +1,7 @@
+# XOR decryption (same as encryption)
+decrypted_flat = np.bitwise_xor(encrypted_flat, key)
+decrypted_img = decrypted_flat.reshape(img.shape)
+plt.imshow(decrypted_img, cmap='gray')
+plt.axis('off')
+plt.title("Decrypted Image")
+plt.show()
