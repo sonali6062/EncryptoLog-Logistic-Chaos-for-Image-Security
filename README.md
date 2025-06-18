@@ -1,4 +1,4 @@
-# EncryptoLog-Logistic-Chaos-for-Image-Security
+
 # 🔐 EncryptoLog: Logistic Chaos for Image Security
 
 ![Encryption Badge](https://img.shields.io/badge/Image%20Encryption-Chaotic%20Maps-blueviolet)
