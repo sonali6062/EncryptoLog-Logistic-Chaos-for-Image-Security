@@ -19,7 +19,7 @@ Whether you're a student, researcher, or cybersecurity enthusiast, this project 
 
 > “In chaos, there is security.”
 
-Chaotic maps like the **Logistic Map** are extremely sensitive to initial conditions, which makes them ideal for encryption. A minor change in the key can lead to entirely different encrypted images—offering strong confusion and diffusion properties.
+Chaotic maps like the **Logistic Map** are extremely sensitive to initial conditions, which makes them ideal for encryption. A minor change in the key can lead to entirely different encrypted images offering strong confusion and diffusion properties.
 
 ---
 
