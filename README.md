@@ -30,8 +30,7 @@ Chaotic maps like the **Logistic Map** are extremely sensitive to initial condit
 - 🧩 Bitwise XOR Encryption & Decryption
 - 📊 Histogram Analysis
 - 📈 Entropy Calculation
-- 📌 NPCR & UACI Evaluation
-- 🎯 PSNR & MSE Computation
+- 📌 NPCR, UACI Evaluation, PSNR & MSE Computation
 
 ---
 
