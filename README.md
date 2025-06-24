@@ -89,24 +89,8 @@ This project can be **extended to:**
 
 ---
 
-## 📄 License
 
-This project is open source under the MIT License.
 
----
 
-## 🔗 Connect
 
-For improvements, feedback, or collaborations, feel free to connect via [GitHub](https://github.com/sonali6062).
-
-```
-
----
-
-### ✅ Notes:
-- You can change `demo.png` to your actual demo image file name if you upload one.
-- If you want me to help you create badges (for stars, forks, issues, etc.), I can provide you with ready-to-use Markdown badge code.
-
-Let me know if you want to add those or need any additional sections like **Citations** or **References**! 😊
-```
 
