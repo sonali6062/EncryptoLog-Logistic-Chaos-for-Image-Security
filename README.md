@@ -81,13 +81,6 @@ This project can be **extended to:**
 
 ---
 
-## ✨ Demo Preview
-
-<div align="center">
-  <img src="https://github.com/sonali6062/EncryptoLog-Logistic-Chaos-for-Image-Security/blob/main/demo.png" width="80%">
-</div>
-
----
 
 
 
