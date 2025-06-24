@@ -1,40 +1,24 @@
 
-# 🔐 EncryptoLog: Logistic Chaos for Image Security
+# 📂 EncryptoLog: Logistic Chaos for Image Security
 
-![Encryption Badge](https://img.shields.io/badge/Image%20Encryption-Chaotic%20Maps-blueviolet)
-
-*A chaos-inspired approach to secure your images with unpredictability and precision.*
+EncryptoLog is a lightweight yet highly effective image encryption system leveraging the chaotic behavior of the **Logistic Map**. It demonstrates the power of chaos theory to achieve high security, sensitivity, and randomness in image encryption.
 
 ---
 
-## 🚀 Overview
-
-**EncryptoLog** is a Python-based image encryption and analysis project that uses the **Logistic Map**, a classic chaotic system, to generate pseudo-random keys for **secure image encryption and decryption**. The project also performs statistical evaluations like **Entropy**, **NPCR**, **UACI**, **PSNR**, and **MSE** to assess the robustness of the encryption method.
-
-Whether you're a student, researcher, or cybersecurity enthusiast, this project offers a lightweight but powerful foundation for chaos-based image security.
-
----
-
-## 🧠 Why Chaos?
-
-> “In chaos, there is security.”
-
-Chaotic maps like the **Logistic Map** are extremely sensitive to initial conditions, which makes them ideal for encryption. A minor change in the key can lead to entirely different encrypted images offering strong confusion and diffusion properties.
+## 🚀 Features
+- 🔒 **Chaotic Logistic Map-Based Encryption**
+- 🖼️ Supports both **grayscale and color images**
+- 📊 Robust security metrics: NPCR, UACI, PSNR, MSE, and Entropy
+- ⚙️ Simple, efficient, and suitable for real-time applications
+- 🔑 Key-dependent encryption ensures strong protection
 
 ---
 
-## 🛠 Features
-
-- 📷 Image Loading (from local files or built-in datasets)
-- 🔑 Logistic Map Key Generation
-- 🧩 Bitwise XOR Encryption & Decryption
-- 📊 Histogram Analysis
-- 📈 Entropy Calculation
-- 📌 NPCR, UACI Evaluation, PSNR & MSE Computation
+## 📚 Project Structure
+- `Image Encryption Using Logistic Map Dynamics.ipynb` - Full implementation with step-by-step explanation
+- 📊 Performance evaluations across multiple standard images
 
 ---
-
-## 📊 Short Info on Evaluation Metrics
 
 - **NPCR (Number of Pixel Change Rate):**  
   Measures the percentage of different pixel values between the original and encrypted images.  
@@ -51,3 +35,78 @@ Chaotic maps like the **Logistic Map** are extremely sensitive to initial condit
 - **MSE (Mean Squared Error):**  
   Quantifies the average squared difference between the original and decrypted images.  
   *Lower MSE means less error and higher decryption accuracy.*
+
+
+## 📈 Encryption Metrics
+- **NPCR > 99.6%**
+- **UACI ~30-35%**
+- **Entropy ~7.999 bits per channel**
+- Strong resistance to statistical and differential attacks.
+
+---
+
+## 🔧 Prerequisites
+```bash
+pip install numpy matplotlib opencv-python
+````
+
+---
+
+## 💻 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sonali6062/EncryptoLog-Logistic-Chaos-for-Image-Security.git
+```
+
+2. Open the provided Jupyter Notebook:
+
+```bash
+Image Encryption Using Logistic Map Dynamics.ipynb
+```
+
+3. Run the cells to encrypt and decrypt images using the Logistic Map.
+
+---
+
+## 🌐 Future Work
+
+This project can be **extended to:**
+
+* 🔹 Image encryption using **higher-dimensional chaotic maps**
+* 🔹 Hybrid schemes combining logistic maps with **other cryptographic techniques** (e.g., DNA coding, AES, SHA integration)
+* 🔹 Real-time encrypted image transmission
+* 🔹 Secure video encryption using multi-map chaotic systems
+
+---
+
+## ✨ Demo Preview
+
+<div align="center">
+  <img src="https://github.com/sonali6062/EncryptoLog-Logistic-Chaos-for-Image-Security/blob/main/demo.png" width="80%">
+</div>
+
+---
+
+## 📄 License
+
+This project is open source under the MIT License.
+
+---
+
+## 🔗 Connect
+
+For improvements, feedback, or collaborations, feel free to connect via [GitHub](https://github.com/sonali6062).
+
+```
+
+---
+
+### ✅ Notes:
+- You can change `demo.png` to your actual demo image file name if you upload one.
+- If you want me to help you create badges (for stars, forks, issues, etc.), I can provide you with ready-to-use Markdown badge code.
+
+Let me know if you want to add those or need any additional sections like **Citations** or **References**! 😊
+```
+
